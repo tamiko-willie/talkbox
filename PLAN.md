@@ -128,7 +128,7 @@ Tenants own their own WABA, Meta app, and phone number. We assist with setup and
 - Sandbox mode per tenant: processes normally but sends to test number
 - Accepted risks at launch: Redis as single point of failure (Upstash redundancy sufficient), Supabase downtime (log and retry), Meta API version deprecation (not at launch)
 
----
+--- 
 
 ## Step 3 — Milestones
 
